@@ -1,0 +1,6 @@
+print("##################################\n")
+print("#                                #\n")
+print("#   Abdurrahman Gilang Harjuna   #\n")
+print("#         2310817110004          #\n")
+print("#                                #\n")
+print("##################################\n")
